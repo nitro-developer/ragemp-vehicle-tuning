@@ -1,0 +1,15 @@
+{
+	"name": "server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "node esbuild.config.mjs"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^20.2.3",
+		"@types/ragemp-s": "github:CocaColaBear/types-ragemp-s#v1.0"
+	}
+}
